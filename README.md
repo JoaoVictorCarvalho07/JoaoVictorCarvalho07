@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hey there! 👋 I'm Joao Victor Carvalho de Freitas
 
-<!--
-**JoaoVictorCarvalho07/JoaoVictorCarvalho07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm a passionate student and backend software developer, always ready for new challenges and learning opportunities.
 
-Here are some ideas to get you started:
+## 💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Student & lifelong learner  
+- 💡 Backend developer focused on **Java** & **Spring**
+- 🌱 Constantly exploring new tech and best coding vibes
+
+## 🎮 When I’m not coding...
+
+- 🕹️ Building worlds in **Minecraft**
+- ⚔️ Climbing ranks (or just chilling) in **League of Legends**
+- 🏋️ Hitting the **gym** to keep my code (and myself) strong
+- 🎧 Vibing to **music** (open to any genre recommendations!)
+- 🐾 Hanging out with my **pets**—they’re the real debugging assistants
+- 📺 Watching **anime** and reading **mangas** and **novels** to keep the imagination flowing
+
+## 🚀 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-victor-carvalho-de-freitas/)
+
+## 🔥 Fun Fact
+
+I believe every great project starts with good vibes, great coffee, and a killer playlist.  
+Let’s build something awesome together!
+
+---
+
+Thanks for stopping by! Feel free to check out my repos and drop a star ⭐ if you like what you see!
