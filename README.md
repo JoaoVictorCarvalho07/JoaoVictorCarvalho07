@@ -21,7 +21,7 @@ I'm a passionate student and backend software developer, always ready for new ch
 ## 🚀 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/joao-victor-carvalho-de-freitas/)
-- 
+- [Instagram](https://www.instagram.com/jventediado/)
 
 ## 🔥 Fun Fact
 
