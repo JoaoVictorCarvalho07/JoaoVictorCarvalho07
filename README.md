@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/joao-victor-carvalho-de-freitas/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://joaovictorcarvalho07.github.io/me/"><img src="https://img.shields.io/badge/Portfolio-764ba2?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.instagram.com/jventediado/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="mailto:joaogotado@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:jvcarvalho018@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 </div>
